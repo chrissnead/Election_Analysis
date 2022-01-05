@@ -16,7 +16,7 @@ County Votes:
 Largest County Turnout: Denver
 
 - Charles Casper Stockham: 23.0% (85,213)
- -Diana DeGette: 73.8% (272,892)
+- Diana DeGette: 73.8% (272,892)
 - Raymon Anthony Doane: 3.1% (11,606)
 
 - Winner: Diana DeGette
