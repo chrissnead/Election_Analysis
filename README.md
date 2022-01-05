@@ -4,6 +4,7 @@
 The purpose of this election audit is to calculate voter data to determine the winner of the election.
 
 ## Election Results
+![Election Results](analysis/election_analysis.txt)
 Total Votes: 369,711
 
 County Votes:
