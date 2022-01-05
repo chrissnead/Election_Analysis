@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview
-The purpose of this election audit is to calculate voting data to determine the winner of the election.
+The purpose of this election audit is to calculate voter data to determine the winner of the election.
 
 ## Election Results
 Total Votes: 369,711
